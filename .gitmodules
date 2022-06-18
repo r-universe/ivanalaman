@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gexp"]
+	path = gexp
+	url = https://github.com/ivanalaman/gexp
+	shallow = true
+	registered = true
+[submodule "lba"]
+	path = lba
+	url = https://github.com/ivanalaman/lba
+	shallow = true
+	registered = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "gexp",
+    "oncran": true
+  },
+  {
+    "package": "lba",
+    "oncran": true
+  }
+]
