@@ -13,3 +13,8 @@
 	url = https://github.com/ivanalaman/lba
 	shallow = true
 	registered = true
+[submodule "ScottKnott"]
+	path = ScottKnott
+	url = https://github.com/ivanalaman/scottknott
+	shallow = true
+	registered = true
